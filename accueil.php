@@ -6,6 +6,9 @@
 </head>
 <body>
    <div class="container">
+         <nav class="navbar navbar-dark bg-dark">
+      <!-- Navbar content -->
+         </nav>
       <h1>Accueil</h1>
       <div class="card">
          <div class="card-header">
