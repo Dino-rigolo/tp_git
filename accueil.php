@@ -6,12 +6,12 @@
 </head>
 <body>
    <div class="container">
-         <div class="container">
+         <!-- <div class="container">
             <nav class="navbar navbar-dark bg-dark">
                <a class="navbar-brand" href="accueil.php">Accueil</a>
                <a class="navbar-brand" href="contact.php">Contact</a>
             </nav>
-         </div>
+         </div> -->
 
          <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
             <a class="navbar-brand" href="accueil.php">Accueil</a>
@@ -22,10 +22,10 @@
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                <ul class="navbar-nav mr-auto">
                   <li class="nav-item active">
-                  <a class="navbar-brand" href="contact.php">Contact <span class="sr-only">(current)</span></a>
+                  <a class="navbar-brand" href="accueil.php">Accueil <span class="sr-only">(current)</span></a>
                   </li>
                   <li class="nav-item">
-                  <a class="nav-link" href="#">Link</a>
+                  <a class="navbar-brand" href="contact.php">Contact</a>
                   </li>
             </div>
          </nav>
