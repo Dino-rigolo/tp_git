@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+   <title>Page d'accueil</title>
+   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
+</head>
+<body>
+   <div class="container">
+      <h1>Accueil</h1>
+      <div class="card">
+         <div class="card-header">
+            Bienvenue sur votre site Internet.
+         </div>
+         <div class="card-body">
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Reiciendis aliquam accusantium, praesentium molestiae delectus rem, modi dolor odit nam accusamus, molestias laboriosam repudiandae laborum deserunt autem soluta excepturi ipsa adipisci!
+         </div>
+      </div>
+   </div>
+</body>
+</html>
