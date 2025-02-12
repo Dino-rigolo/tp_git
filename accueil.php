@@ -7,7 +7,8 @@
 <body>
    <div class="container">
          <nav class="navbar navbar-dark bg-dark">
-      <!-- Navbar content -->
+            <a class="navbar-brand" href="accueil.php">Accueil</a>
+            <a class="navbar-brand" href="contact.php">Contact</a>
          </nav>
       <h1>Accueil</h1>
       <div class="card">
